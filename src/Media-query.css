@@ -1,0 +1,17 @@
+
+
+@media(min-width:480px) and (max-width:767px) {
+.trending-img-size {
+    height: 226px;
+}
+
+.trending-img-size > img {
+    height: 240px;
+}
+
+.trending-img-relative {
+    right: 0;
+}
+ 
+}
+
